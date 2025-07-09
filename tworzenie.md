@@ -13,6 +13,8 @@
 
 `qgis-ltr-bin.exe`
 
+Lokalizacja presetów dla quickOSM: `C:\Users\Piotr\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\QuickOSM\resources\map_preset`
+
 ### Ogólne
 
 ![Właściwości](./screenshots/wlasciwosci.png)
